@@ -1,4 +1,4 @@
-hello!
+hello! samsung
 
 git init
 git commit -m "first commit"
