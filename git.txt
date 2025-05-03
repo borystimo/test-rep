@@ -1,4 +1,4 @@
-hello!123
+hello!
 
 git init
 git commit -m "first commit"
