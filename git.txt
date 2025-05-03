@@ -1,5 +1,5 @@
-hello!123
-123
+hello!
+
 git init
 git commit -m "first commit"
 git branch -M main
